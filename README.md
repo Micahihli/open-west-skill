@@ -609,6 +609,7 @@ const views = (function views() {
       Launch: {
         ask: 'Welcome to the OpenWest Conference skill. OpenWest largest regional tech conference devoted to all things OPEN: Hardware, Standards, Source and Data. You can ask me about conference details or ask me to help you find an interesting talk. Would you like me to help you find an interesting talk?',
       },
+      Reprompt:{ ask: 'Would you like me to help you find an interesting talk?'},
       Info: {
         tell: 'Join us for the annual OpenWest Conference...',
       },
